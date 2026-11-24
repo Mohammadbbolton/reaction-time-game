@@ -21,3 +21,12 @@ Wait for the green signal and click as quickly as possible.
 ## Running Locally
 
 Open `index.html` in a modern web browser.
+## Manual Testing Checklist
+
+- [ ] Start a session and wait for the green signal.
+- [ ] Click too early and verify false-start handling.
+- [ ] Complete multiple rounds and review the best recorded time.
+
+### Test Notes
+
+Record the observed result and any reproducible issue after running the tests.
